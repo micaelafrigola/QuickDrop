@@ -11,7 +11,7 @@ User.destroy_all
 
 
 puts "creating customers"
-uno = User.find_or_create_by(name: "Uno", email: "uno@example.com", password: "123456")
+uno = User.create!(name: "Uno", email: "uno@example.com", password: "123456")
 dobby = User.create!(name: "Dobby", email: "dobby@example.com", password: "jU7#2kL$8@6!")
 pedro = User.create!(name: "Pedro", email: "pedro@example.com", password: "jU7#2kL$8@6!")
 
