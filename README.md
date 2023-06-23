@@ -3,7 +3,6 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 # Project description
 #### Sending or receiving packages can be a hassle in today's fast-paced world. With just a few taps on your smartphone, you can send or receive packages on time and with complete transparency. Originally, this was a two-week student project made by Wai Ian Vong, Micaela Frigola, Mayavi Steiner and Corinna Grundmeier. Link [here](http://github.com/valenvwi/QuickDrop).
-#### I have added additional pages to complete the driver's journey, edited validations for orders and add-ons to improve user's journey. 
 
 #### This app is designed for mobile. To ensure the best experience, please use a mobile device to access. :iphone:
 ## [Deployed on Heroku](https://quick-drop-465494573d9c.herokuapp.com)
