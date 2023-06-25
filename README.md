@@ -24,11 +24,11 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 #### Start your journey first as a customer, and then as a driver.
 ##### Customer login
-###### username: user1@example.com
+###### username: uno@example.com
 ###### password: 123456
 
 ##### Driver login
-###### username: driver1@example.com
+###### username: driverpeter@example.com
 ###### password: 234567
 
 ## Tech-Stack
